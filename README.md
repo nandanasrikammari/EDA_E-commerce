@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis (EDA)
 
-This repository contains an *Exploratory Data Analysis (EDA)* on an e-commerce dataset. The goal of this project is to uncover insights about product sales, revenue trends, and customer behavior.
+This repository contains an *Exploratory Data Analysis (EDA)* on an e-commerce data. The goal of this project is to uncover insights about product sales, revenue trends, and customer behavior.
 
 ## Project Overview
 The analysis focuses on:  
@@ -30,4 +30,5 @@ The analysis focuses on:
 ## How to Use
 1. Clone the repository:  
 ```bash
+
 git clone https://github.com/nandanasrikammari/EDA_Ecommerce.git
